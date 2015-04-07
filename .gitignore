@@ -1,0 +1,6 @@
+*.pyc
+*.ipynb
+*.csv
+*.tsv
+*.png
+*.eps
